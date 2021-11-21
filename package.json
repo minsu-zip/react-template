@@ -9,11 +9,14 @@
   },
   "dependencies": {
     "@craco/craco": "^6.4.1",
+    "@emotion/react": "^11.6.0",
+    "@emotion/styled": "^11.6.0",
     "next": "12.0.4",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
   "devDependencies": {
+    "@emotion/babel-preset-css-prop": "^11.2.0",
     "@types/node": "^16.11.9",
     "@types/react": "^17.0.35",
     "craco-alias": "^3.0.1",
